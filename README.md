@@ -70,5 +70,5 @@ The Excel dashboard contains six separate visualizations:
 - Monitor category-wise profitability.
 - Study the reasons behind improved profitability in the later months.
 
-Conclusion
+#Conclusion
 This project demonstrates how Microsoft Excel can be used to clean, organize, analyze, and visualize retail sales data. The dashboard and business insights help identify sales trends, profitable categories, and areas that need improvement.
